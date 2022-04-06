@@ -1,0 +1,35 @@
+html{
+  background-image: url(https://cdn.discordapp.com/attachments/902819843139596318/960984012824907816/wallpaper.gif);
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+}
+#pfp{
+  width: 600px;
+  margin: 0 auto 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  border: 4px solid black;
+}
+
+:any-link{
+  color: white;
+  font-size: 100px;
+}
+#center{
+  text-align: center;
+  padding: 5px;
+}
+a{
+  margin-left: 50px;
+}
+.btn{
+  text-decoration: none;
+}
+a:hover{
+  color: purple;
+}
